@@ -9,4 +9,6 @@ Topics Covered Till Now:
 5. Dynamic Typing
 6. Objects
 7. Arrays
+8. Functions
+9. Types of Functions
 
