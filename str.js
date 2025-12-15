@@ -38,3 +38,4 @@ let lastLetter = str[str.length-1];//This gives us the last letter of the string
 console.log(lastLetter);
 
 console.log("Hello World!");
+console.log("What's up?");
