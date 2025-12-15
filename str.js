@@ -37,3 +37,4 @@ let str = "Messi is the GOAT!";
 let lastLetter = str[str.length-1];//This gives us the last letter of the string str, which is !
 console.log(lastLetter);
 
+console.log("Hello World!");
