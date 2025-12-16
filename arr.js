@@ -15,3 +15,9 @@ console.log(selectedColors.length);
 let numbers = [10,15,30,40,50];
 numbers[1] = 20;// Using this we can modify the content of the array without changing the whole array unline strings
 console.log(numbers);
+
+//Multidimensional Arrays
+
+let myArr = [[1,2,3], [4,5,6], [7,8,9],[[10,11,12],13,14]];
+console.log(myArr[0][0]);//This will print the first element of the first array which is 1.
+console.log(myArr[2][1]);
