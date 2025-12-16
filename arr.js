@@ -21,3 +21,5 @@ console.log(numbers);
 let myArr = [[1,2,3], [4,5,6], [7,8,9],[[10,11,12],13,14]];
 console.log(myArr[0][0]);//This will print the first element of the first array which is 1.
 console.log(myArr[2][1]);//This will print the 8th element of the array which is 8.
+
+console.log("Hello");
