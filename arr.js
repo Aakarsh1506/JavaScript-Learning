@@ -23,3 +23,15 @@ console.log(myArr[0][0]);//This will print the first element of the first array 
 console.log(myArr[2][1]);//This will print the 8th element of the array which is 8.
 
 console.log("Hello");
+
+//Pushing into the array
+
+let myArray = [["Aakarsh",1],["Singh",2]];
+myArray.push(["GOAT",3]);//Using the push function, we can add elements to the end of the array without disturbing the other elements of the array
+console.log(myArray);
+
+//Popping out of the array
+let arrey = [1,2,3,4,5,6,7,8,9,10];
+let newArrey = arrey.pop();//Using this function, we can remove the last elemnt of the array. Only the last element
+console.log(arrey);//Printing the updated Array
+console.log(newArrey);
