@@ -33,3 +33,5 @@ console.log(square(5));//Calling the function inside the console
 let sq = square(5);//sq variable is calling the square funcion and storing the value of the number 5 squared
 console.log(sq);
 //console.log() is also a function which is predefined
+
+console.log("Hello All");
