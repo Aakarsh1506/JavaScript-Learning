@@ -11,3 +11,7 @@ console.log(selectedColors);
 
 //When we make an array in JS it automatically gets some properties like lenght etc
 console.log(selectedColors.length);
+
+let numbers = [10,15,30,40,50];
+numbers[1] = 20;// Using this we can modify the content of the array without changing the whole array unline strings
+console.log(numbers);
