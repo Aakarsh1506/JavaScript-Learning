@@ -14,3 +14,4 @@ Topics Covered Till Now:
 10. Strings
 11. Arrow Functions
 12. setTimeout Function
+13. Map Functions
