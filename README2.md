@@ -34,3 +34,6 @@ Arrow Functions: A concise way to write function expressions, especially useful 
 Anonymous Functions: Functions without a name, often used as arguments to other functions (callbacks).
 Async Functions: Functions designed to work with async/await for asynchronous operations.
 This list is not exhaustive but covers many of the fundamental and commonly used JavaScript functions and concepts
+
+
+Hello
