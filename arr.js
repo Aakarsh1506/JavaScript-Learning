@@ -9,7 +9,7 @@ console.log(selectedColors[2]);//Printing Array Element 3
 selectedColors[4] = 'Green';//Length of the array can be increased directly
 console.log(selectedColors);
 
-//When we make an array in JS it automatically gets some properties like lenght etc
+//When we make an array in JS it automatically gets some properties like length etc
 console.log(selectedColors.length);
 
 let numbers = [10,15,30,40,50];
@@ -31,7 +31,8 @@ myArray.push(["GOAT",3]);//Using the push function, we can add elements to the e
 console.log(myArray);
 
 //Popping out of the array
+
 let arrey = [1,2,3,4,5,6,7,8,9,10];
 let newArrey = arrey.pop();//Using this function, we can remove the last elemnt of the array. Only the last element
 console.log(arrey);//Printing the updated Array
-console.log(newArrey);
+console.log(newArrey);//Prints the popped value of the array
