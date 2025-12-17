@@ -9,6 +9,7 @@ Topics Covered Till Now:
 5.  Dynamic Typing
 6.  Objects
 7.  Arrays
-8.  Functions
+8.  Functions, Pop and Shift and Push Functions
 9.  Types of Functions
 10. Strings
+11. Arrow Functions
