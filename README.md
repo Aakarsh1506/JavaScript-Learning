@@ -13,3 +13,4 @@ Topics Covered Till Now:
 9.  Types of Functions
 10. Strings
 11. Arrow Functions
+12. setTimeout Function
