@@ -42,3 +42,13 @@ const newFuncs = () => {
     console.log("Hello, Life!");
 }
 setTimeout(newFuncs, 2000);
+
+
+//Map Functions 
+
+const numbers = [1,2,3,4,5];
+
+const newArr = numbers.map((n) =>{
+    return n*n;
+});
+console.log(newArr);
