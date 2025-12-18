@@ -33,4 +33,3 @@ const cartTotal = products.filter(p => p.inShoppingCart) //Filters all the items
 console.log(cartTotal);
 
 
-  
