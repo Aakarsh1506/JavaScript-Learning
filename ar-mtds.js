@@ -1,6 +1,6 @@
 //Array Methods in JavaScript
 
-//Map Functions 
+//Map Methods 
 
 const numbers = [1,2,3,4,5];
 
