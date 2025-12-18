@@ -16,4 +16,7 @@ Topics Covered Till Now:
 12. setTimeout Function
 13. Map Methods
 14. Filter Methods
-15. Reduce Methodsg
+15. Reduce Methods
+16. Spread Operators
+17. Deconstructing an Array 
+18. Deconstructing an Object
