@@ -20,7 +20,7 @@ console.log(nArray);
 
 const prices = [10,30,25,12,37.5];
 
-const updatedPrices = prices.map((prices) => {
+const updatedPrices = prices.map((prices) => { //This function gives us the prices of the elements listed in the array at a 50 percent discounted price in another array using map functions
     return prices*0.5;
 });
 console.log(updatedPrices);
@@ -42,3 +42,8 @@ const productNames = products.map((product) => {
 });
 
 console.log(productNames);
+
+const productPrices = products.map((product) => {
+  return product.price*0.5;
+})
+console.log(productPrices);
