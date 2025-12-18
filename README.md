@@ -18,5 +18,5 @@ Topics Covered Till Now:
 14. Filter Methods
 15. Reduce Methods
 16. Spread Operators
-17. Deconstructing an Array 
-18. Deconstructing an Object
+17. Destructuring an Array 
+18. Destructuring an Object
