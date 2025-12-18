@@ -14,4 +14,6 @@ Topics Covered Till Now:
 10. Strings
 11. Arrow Functions
 12. setTimeout Function
-13. Map Functions
+13. Map Methods
+14. Filter Methods
+15. Reduce Methods
