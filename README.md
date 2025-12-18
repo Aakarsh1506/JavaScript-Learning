@@ -1,5 +1,5 @@
 # JavaScript-Learning
-In this github repository, I will be uploading all the codes which I wrote during the time I will be learning JavaScript.
+In this github repository, I will be uploading all the codes which I will write during the time I will be learning JavaScript.
 
 Topics Covered Till Now:
 1.  Basics
@@ -16,4 +16,4 @@ Topics Covered Till Now:
 12. setTimeout Function
 13. Map Methods
 14. Filter Methods
-15. Reduce Methods
+15. Reduce Methodsg
