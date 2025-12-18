@@ -20,3 +20,5 @@ Topics Covered Till Now:
 16. Spread Operators
 17. Destructuring an Array 
 18. Destructuring an Object
+19. Conditional Statements
+20. Test Project(Copied)
