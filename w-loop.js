@@ -11,7 +11,7 @@ while(i<=5){
 let username = "";
 
 while(username===""){
-    username = window.prompt('Enter Your Name: '); // window.prompt is an inpit command for the user to input values whil the program works
+    username = window.prompt('Enter Your Name: '); // window.prompt is an input command for the user to input values whil the program works
 }
 
 console.log(`Hello ${username}`); 
